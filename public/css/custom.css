@@ -1,0 +1,19 @@
+.shadow{
+    box-shadow: 0 8px 14px 0 rgba(0,0,0,.1);
+}
+
+.main-content{
+	color: #666 !important;
+}
+
+body {
+	background: #f5f5f5;
+}
+
+.error {
+	border: #ff0000 1px solid;
+	color: #ff0000;
+}
+#text-error{
+	border: #ff0000 0px solid;
+}
